@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 .NET Learning Phase
 
 Welcome to your journey into the world of **C#** and **.NET**! This repository contains beginner-friendly examples and projects to help you master the fundamentals of C# programming and the .NET ecosystem.
@@ -229,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to reach out!
 
 - GitHub: [@KeenIsHere](https://github.com/KeenIsHere)
-- Email: your.email@example.com
+- Email: kn.keen.s24.@gmail.com
 
 ---
 
