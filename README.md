@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 .NET Learning Phase
 
 Welcome to your journey into the world of **C#** and **.NET**! This repository contains beginner-friendly examples and projects to help you master the fundamentals of C# programming and the .NET ecosystem.
